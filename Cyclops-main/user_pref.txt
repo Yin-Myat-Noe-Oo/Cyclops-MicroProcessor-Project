@@ -1,0 +1,6 @@
+Boot: 1
+Name: Min Lu
+Music: Sunflower by Post Malone
+Age: 19
+Job: student
+Last Boot: 18
